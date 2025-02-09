@@ -37,7 +37,15 @@ export default function Projects() {
 }
 
 // Project Card Component with Smooth Hover Effects
-const ProjectCard = ({ project }) => {
+interface Project {
+  title: string;
+  description: string;
+  tech: string;
+  github?: string;
+  live?: string;
+}
+
+const ProjectCard = ({ project }: { project: Project }) => {
   return (
     <motion.div
       variants={{
