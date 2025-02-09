@@ -1,6 +1,5 @@
 "use client";
 import { motion } from "framer-motion";
-import { FaPercentage } from "react-icons/fa";
 
 export default function Education() {
   return (

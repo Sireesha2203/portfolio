@@ -9,7 +9,7 @@ export default function About() {
           </p>
   
           <p>
-            I’ve had the privilege to work on projects like <span className="text-white font-semibold">DocSum</span>, an AI-powered document summarization tool, and <span className="text-white font-semibold">Talent Space Platform</span>, platform for Networking and Learning. These projects reflect my ability to combine cutting-edge technology with real-world applications to deliver impactful results.
+            I've had the privilege to work on projects like <span className="text-white font-semibold">DocSum</span>, an AI-powered document summarization tool, and <span className="text-white font-semibold">Talent Space Platform</span>, platform for Networking and Learning. These projects reflect my ability to combine cutting-edge technology with real-world applications to deliver impactful results.
           </p>
   
           <p>
@@ -17,7 +17,7 @@ export default function About() {
           </p>
   
           <p>
-            I’m always looking to push the boundaries of what technology can achieve. Currently, I’m exploring the intersection of <span className="text-white font-semibold">AI</span> and <span className="text-white font-semibold">web development</span>, continuously learning new technologies, and collaborating with like-minded professionals to build the next generation of intelligent applications.
+            I'm always looking to push the boundaries of what technology can achieve. Currently, I’m exploring the intersection of <span className="text-white font-semibold">AI</span> and <span className="text-white font-semibold">web development</span>, continuously learning new technologies, and collaborating with like-minded professionals to build the next generation of intelligent applications.
           </p>
         </div>
   

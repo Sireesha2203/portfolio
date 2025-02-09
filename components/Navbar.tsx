@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { FaHome, FaUser, FaLaptopCode, FaGraduationCap, FaBriefcase, FaPhoneAlt } from "react-icons/fa";
 
 export default function Navbar() {

@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import Image from "next/image";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
-import { SiLeetcode } from "react-icons/si"; // Importing LeetCode icon
+import { SiLeetcode } from "react-icons/si"; 
 
 import About from "./about/page";
 import Skills from "./skills/page";
@@ -51,6 +51,7 @@ export default function Home() {
             width={200}
             height={200}
             className="object-cover w-full h-full"
+            priority 
           />
         </motion.div>
 
