@@ -1,5 +1,4 @@
 "use client";
-
 import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import Image from "next/image";
@@ -64,7 +63,7 @@ export default function Home() {
             transition={{ delay: 0.5, duration: 1 }}
             className="text-2xl md:text-4xl font-bold leading-tight"
           >
-            Hi, I'm <br />
+            Hi, I am <br />
             <span className="text-teal-500">Sireesha Jangili</span>
           </motion.h1>
 

@@ -5,7 +5,7 @@ export default function About() {
         
         <div className="text-gray-400 text-lg space-y-4 leading-relaxed text-justify">
           <p>
-            I'm <span className="text-white font-semibold">Sireesha Jangili</span>, a passionate <span className="text-white font-semibold">Software Developer</span> with expertise in <span className="text-white font-semibold">MERN Stack</span>, <span className="text-white font-semibold">.NET</span>, and <span className="text-white font-semibold">AI-driven solutions</span>. With a solid foundation in <span className="text-white font-semibold">Data Structures & Algorithms</span>, I’m committed to solving complex problems through scalable, optimized, and innovative solutions.
+            I'm <span className="text-white font-semibold">Sireesha Jangili</span>, a passionate <span className="text-white font-semibold">Software Developer</span> with expertise in <span className="text-white font-semibold">MERN Stack</span>, <span className="text-white font-semibold">.NET</span>, and <span className="text-white font-semibold">AI-driven solutions</span>. With a solid foundation in <span className="text-white font-semibold">Data Structures & Algorithms</span>, I'm committed to solving complex problems through scalable, optimized, and innovative solutions.
           </p>
   
           <p>
@@ -13,11 +13,11 @@ export default function About() {
           </p>
   
           <p>
-            In addition to my technical expertise, I’m recognized for my achievements, including being selected as a <span className="text-white font-semibold">Amazon ML Summer School Scholar</span>, where I stood out from over 85,000 applicants, and being awarded the <span className="text-white font-semibold">INEX Silver Medal</span> for innovation at the India International Innovation Expo. 
+            In addition to my technical expertise, I'm recognized for my achievements, including being selected as a <span className="text-white font-semibold">Amazon ML Summer School Scholar</span>, where I stood out from over 85,000 applicants, and being awarded the <span className="text-white font-semibold">INEX Silver Medal</span> for innovation at the India International Innovation Expo. 
           </p>
   
           <p>
-            I'm always looking to push the boundaries of what technology can achieve. Currently, I’m exploring the intersection of <span className="text-white font-semibold">AI</span> and <span className="text-white font-semibold">web development</span>, continuously learning new technologies, and collaborating with like-minded professionals to build the next generation of intelligent applications.
+            I'm always looking to push the boundaries of what technology can achieve. Currently, I'm exploring the intersection of <span className="text-white font-semibold">AI</span> and <span className="text-white font-semibold">web development</span>, continuously learning new technologies, and collaborating with like-minded professionals to build the next generation of intelligent applications.
           </p>
         </div>
   
